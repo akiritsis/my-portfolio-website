@@ -24,7 +24,7 @@ body {
 /*****<span>Photo by <a href="https://unsplash.com/@margaretbarley?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Margaret Barley</a> on <a href="https://unsplash.com/s/photos/greece?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>*****/
 header {
     height: 850px;
-    background: url('../img/skyline.jpg');
+    background: url('../img/water.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -48,17 +48,17 @@ nav ul li a {
 }
 
 header h1 {
-    width: 1000px;
+    width: 1100px;
     font-family: 'Merriweather', serif;
     clear: both;
-    font-size: 50px;
+    font-size: 60px;
     line-height: 40px;
     font-weight: 900;
-    padding: 0px 250px 0px 75px;
+    padding: 400px 250px 0px 75px;
 }
 
 header h2 {
-    width: 1000px;
+    width: 875px;
     font-family: 'Raleway', sans-serif;
     clear: both;
     font-size: 28px;
@@ -121,7 +121,7 @@ header h2 {
 /*****ABOUT*****/
 
 #about {
-    background-color: #DAE3E5;
+    background-color: #e2f2f5;
     background-size: cover;
 }
 
@@ -154,25 +154,19 @@ header h2 {
 /*****FOOTER*****/
 
 #contact {
-    background-color: #b8d6e1;
-    height: 550px;
+    background: url('../img/footer.jpg');
+    height: 500px;
+    background-size: cover;
 }
 
 
 /*****<span>Photo by <a href="https://unsplash.com/@zombience?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Ryan Spencer</a> on <a href="https://unsplash.com/s/photos/greece?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>*****/
-#contact #gate {
-    float: left;
-    height: 400px;
-    width: 300px;
-    border: 5px solid #ffffff;
-    margin-top: 75px;
-    margin-left: 150px;
-}
+
 
 #contact h2 {
     font-size: 32px;
     text-align: center;
-    margin-top: 150px;
+    margin-top: 115px;
 }
 
 #contact #email-header, #contact #socialmedia-header {
@@ -188,7 +182,7 @@ header h2 {
 }
 
 #contact #envelope {
-    padding: 0 10px 0 140px;
+    padding: 0 10px 0 435px;
 }
 
 
@@ -206,7 +200,7 @@ header h2 {
 
 #contact ul {
     list-style: none;
-    padding-left: 240px;
+    padding-left: 530px;
 }
 
 #contact ul li {
